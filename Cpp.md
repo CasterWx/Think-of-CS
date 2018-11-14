@@ -14,7 +14,7 @@
   * [3.cin.get(字符变量名)](#3.cin.get(字符变量名))
   * [4.cin.get(数组名，接收字符数目)](#4.cin.get(数组名，接收字符数目))
   * [5.cin.get()](#5.cin.get())
-  * [6.cin.getline(char数组 m,int n,string endstr)](#6.cin.getline(char数组 m,int n,string endstr))
+  * [6.cin.getline(char数组_m,int_n,string_endstr)](#6.cin.getline(char数组m,int_n,string_endstr))
   * [7.getline()](#7.getline())
   * [8.gets()](#8.gets())
   * [9.getchar()](#9.getchar())
