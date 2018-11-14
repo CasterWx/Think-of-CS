@@ -101,7 +101,7 @@ seekp( pos_type position )
 ##### 5.cin.get()
     没有参数，主要用于舍弃输入流中不需要的字符，或者舍弃回车，即舍弃输入流中的一个字符。没有用cin.get()，则后面的s会从输入流中继续读入
 
-##### 6.cin.getline(char[] m,int n,string endstr)
+##### 6.cin.getline(char数组 m,int n,string endstr)
     实际是cin.getline(接收字符串到m，接收个数n，结束字符endstr)。接收一个字符串，可以接收空格等，最后一个字符为‘\0’。结束符可以通过设置第三个参数自己设置，默认是回车。m不能为string类型。注意：实际接收到的要比n少一个，因为最后一个字符为'\0'。
 
 ##### 7.getline()
